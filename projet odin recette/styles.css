@@ -1,8 +1,17 @@
-h1 {
-    color: white;
-    background-color: blue;
-  }
-  
+h1{
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+}
+
+body{
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(#308a1ab2,#83e79c)
+
+}
+
 a{
-    color: red;
-  }
+  text-decoration: none;
+  color: black;
+}
